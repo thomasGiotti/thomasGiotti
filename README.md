@@ -1,6 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m @thomasGiotti<br>🔭 I’m currently working on improve my skills<br>🌱 I’m currently learning NestJs & NextJs<br>
-<br>👀 I’m interested in app development<br>💬 I don't bite feel free to contact me thomas.giotti.dev@gmail.com
+ 👋 Hi, I’m @thomasGiotti<br>👀 I’m interested in app development<br>🔭 I’m currently working on improve my skills<br>🌱 I’m currently learning NestJs & NextJs<br>💬 I don't bite feel free to contact me thomas.giotti.dev@gmail.com
 
 
 ## 🌐 Socials:
